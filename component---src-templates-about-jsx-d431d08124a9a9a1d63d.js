@@ -1,0 +1,2 @@
+(self.webpackChunk_sabertazimi_blog=self.webpackChunk_sabertazimi_blog||[]).push([[673],{8538:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=a(7310),u=a(2287);t.default=function(e){var t=e.pageContext.github;return n.createElement(r.Ar,{banner:"About Me"},n.createElement(u.UC,{github:t}))}}}]);
+//# sourceMappingURL=component---src-templates-about-jsx-d431d08124a9a9a1d63d.js.map

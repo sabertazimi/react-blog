@@ -1,0 +1,2 @@
+(self.webpackChunk_sabertazimi_blog=self.webpackChunk_sabertazimi_blog||[]).push([[575],{4624:function(e,t,a){"use strict";a.r(t);var n=a(7294),s=a(961),r=a(7310),c=a(2287);t.default=function(e){var t=e.pageContext.activeTag,a=(0,s.Pu)(),i=a.posts,l=a.tags,u=i.filter((function(e){return e.tags&&e.tags.includes(t)}));return n.createElement(r.Ar,{banner:"Tags"},n.createElement(c.Wx,{tags:l,activeTag:t}),Boolean(t&&u)?n.createElement(c.Eb,{posts:u}):n.createElement(c.Eb,{posts:i}))}}}]);
+//# sourceMappingURL=component---src-templates-tags-jsx-eb842e393d941b0843fc.js.map

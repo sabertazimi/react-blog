@@ -1,0 +1,2 @@
+(self.webpackChunk_sabertazimi_blog=self.webpackChunk_sabertazimi_blog||[]).push([[513],{7171:function(e,n,t){"use strict";t.r(n);var a=t(7294),r=t(7310),l=t(2287);n.default=function(){return a.createElement(r.Ar,{banner:"Books"},a.createElement(l.tn,null))}}}]);
+//# sourceMappingURL=component---src-templates-books-jsx-d3110e806feb8e4600eb.js.map
